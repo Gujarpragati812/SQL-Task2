@@ -1,0 +1,61 @@
+"product_id","product_name","category","price","stock_quantity","supplier_name","supplier_city","supply_date","order_item_id","order_id","product_id-2","quantity","total_price","total_price-2"
+18,"Electric Iron","Home Appliances",1500,200,"Bajaj Electricals","Kolkata","2023-05-25",21,120,18,1,1500,1500
+18,"Electric Iron","Home Appliances",1500,200,"Bajaj Electricals","Kolkata","2023-05-25",21,120,18,1,1500,1500
+20,"LED Bulbs","Home Appliances",250,500,"Havells India","Ahmedabad","2022-10-15",22,121,20,10,2500,2500
+20,"LED Bulbs","Home Appliances",250,500,"Havells India","Ahmedabad","2022-10-15",22,121,20,10,2500,2500
+12,"Fitness Tracker","Wearable Tech",5000,200,"Fitbit India","Bengaluru","2023-03-17",27,126,12,1,5000,5000
+12,"Fitness Tracker","Wearable Tech",5000,200,"Fitbit India","Bengaluru","2023-03-17",27,126,12,1,5000,5000
+10,"Gas Stove","Kitchen",5000,100,"Butterfly Appliances","Jaipur","2023-07-12",13,112,10,1,5000,5000
+10,"Gas Stove","Kitchen",5000,100,"Butterfly Appliances","Jaipur","2023-07-12",13,112,10,1,5000,5000
+16,"Electric Kettle","Kitchen",2000,160,"Philips India","Chennai","2022-08-25",18,117,16,3,6000,6000
+16,"Electric Kettle","Kitchen",2000,160,"Philips India","Chennai","2022-08-25",18,117,16,3,6000,6000
+11,"Bluetooth Speaker","Electronics",3000,80,"Bose India","Hyderabad","2023-02-27",2,101,11,2,6000,6000
+11,"Bluetooth Speaker","Electronics",3000,80,"Bose India","Hyderabad","2023-02-27",2,101,11,2,6000,6000
+19,"Induction Cooktop","Kitchen",3500,140,"Pigeon India","Bengaluru","2023-01-20",20,119,19,2,7000,7000
+19,"Induction Cooktop","Kitchen",3500,140,"Pigeon India","Bengaluru","2023-01-20",20,119,19,2,7000,7000
+17,"Vacuum Cleaner","Home Appliances",7000,45,"Eureka Forbes","Hyderabad","2023-07-01",19,118,17,1,7000,7000
+17,"Vacuum Cleaner","Home Appliances",7000,45,"Eureka Forbes","Hyderabad","2023-07-01",19,118,17,1,7000,7000
+9,"Water Purifier","Home Appliances",8000,70,"Kent RO Systems","Lucknow","2022-11-14",26,125,9,1,8000,8000
+9,"Water Purifier","Home Appliances",8000,70,"Kent RO Systems","Lucknow","2022-11-14",10,109,9,1,8000,8000
+9,"Water Purifier","Home Appliances",8000,70,"Kent RO Systems","Lucknow","2022-11-14",26,125,9,1,8000,8000
+9,"Water Purifier","Home Appliances",8000,70,"Kent RO Systems","Lucknow","2022-11-14",10,109,9,1,8000,8000
+7,"Mixer Grinder","Kitchen",3000,150,"Preethi Appliances","Pune","2023-06-18",6,105,7,3,9000,9000
+7,"Mixer Grinder","Kitchen",3000,150,"Preethi Appliances","Pune","2023-06-18",6,105,7,3,9000,9000
+12,"Fitness Tracker","Wearable Tech",5000,200,"Fitbit India","Bengaluru","2023-03-17",11,110,12,2,10000,10000
+12,"Fitness Tracker","Wearable Tech",5000,200,"Fitbit India","Bengaluru","2023-03-17",11,110,12,2,10000,10000
+5,"Microwave Oven","Kitchen",10000,60,"Samsung India","Kolkata","2023-04-01",7,106,5,1,10000,10000
+5,"Microwave Oven","Kitchen",10000,60,"Samsung India","Kolkata","2023-04-01",7,106,5,1,10000,10000
+17,"Vacuum Cleaner","Home Appliances",7000,45,"Eureka Forbes","Hyderabad","2023-07-01",30,129,17,2,14000,14000
+17,"Vacuum Cleaner","Home Appliances",7000,45,"Eureka Forbes","Hyderabad","2023-07-01",30,129,17,2,14000,14000
+2,"Smartphone","Electronics",15000,120,"Bajaj Tech","Bengaluru","2023-03-15",4,103,2,1,15000,15000
+2,"Smartphone","Electronics",15000,120,"Bajaj Tech","Bengaluru","2023-03-15",12,111,2,1,15000,15000
+2,"Smartphone","Electronics",15000,120,"Bajaj Tech","Bengaluru","2023-03-15",4,103,2,1,15000,15000
+2,"Smartphone","Electronics",15000,120,"Bajaj Tech","Bengaluru","2023-03-15",12,111,2,1,15000,15000
+5,"Microwave Oven","Kitchen",10000,60,"Samsung India","Kolkata","2023-04-01",25,124,5,2,20000,20000
+5,"Microwave Oven","Kitchen",10000,60,"Samsung India","Kolkata","2023-04-01",25,124,5,2,20000,20000
+13,"Smartwatch","Wearable Tech",12000,180,"Xiaomi India","Delhi","2023-06-05",15,114,13,2,24000,24000
+13,"Smartwatch","Wearable Tech",12000,180,"Xiaomi India","Delhi","2023-06-05",15,114,13,2,24000,24000
+4,"Washing Machine","Home Appliances",25000,20,"LG Electronics","Chennai","2023-02-22",28,127,4,1,25000,25000
+4,"Washing Machine","Home Appliances",25000,20,"LG Electronics","Chennai","2023-02-22",5,104,4,1,25000,25000
+4,"Washing Machine","Home Appliances",25000,20,"LG Electronics","Chennai","2023-02-22",28,127,4,1,25000,25000
+4,"Washing Machine","Home Appliances",25000,20,"LG Electronics","Chennai","2023-02-22",5,104,4,1,25000,25000
+3,"Refrigerator","Home Appliances",30000,30,"Whirlpool India","Delhi","2023-05-10",3,102,3,1,30000,30000
+3,"Refrigerator","Home Appliances",30000,30,"Whirlpool India","Delhi","2023-05-10",14,113,3,1,30000,30000
+3,"Refrigerator","Home Appliances",30000,30,"Whirlpool India","Delhi","2023-05-10",3,102,3,1,30000,30000
+3,"Refrigerator","Home Appliances",30000,30,"Whirlpool India","Delhi","2023-05-10",14,113,3,1,30000,30000
+6,"Air Conditioner","Electronics",35000,25,"Voltas Ltd","Ahmedabad","2022-12-25",9,108,6,1,35000,35000
+6,"Air Conditioner","Electronics",35000,25,"Voltas Ltd","Ahmedabad","2022-12-25",24,123,6,1,35000,35000
+15,"Gaming Console","Electronics",35000,50,"Microsoft India","Pune","2023-04-10",17,116,15,1,35000,35000
+15,"Gaming Console","Electronics",35000,50,"Microsoft India","Pune","2023-04-10",17,116,15,1,35000,35000
+6,"Air Conditioner","Electronics",35000,25,"Voltas Ltd","Ahmedabad","2022-12-25",9,108,6,1,35000,35000
+6,"Air Conditioner","Electronics",35000,25,"Voltas Ltd","Ahmedabad","2022-12-25",24,123,6,1,35000,35000
+8,"Television","Electronics",40000,40,"Sony India","Mumbai","2023-01-30",23,122,8,1,40000,40000
+8,"Television","Electronics",40000,40,"Sony India","Mumbai","2023-01-30",8,107,8,1,40000,40000
+8,"Television","Electronics",40000,40,"Sony India","Mumbai","2023-01-30",23,122,8,1,40000,40000
+8,"Television","Electronics",40000,40,"Sony India","Mumbai","2023-01-30",8,107,8,1,40000,40000
+1,"Laptop","Electronics",45000,50,"Tata Electronics","Mumbai","2023-01-05",1,101,1,1,45000,45000
+1,"Laptop","Electronics",45000,50,"Tata Electronics","Mumbai","2023-01-05",1,101,1,1,45000,45000
+14,"DSLR Camera","Electronics",55000,30,"Nikon India","Mumbai","2022-09-08",16,115,14,1,55000,55000
+14,"DSLR Camera","Electronics",55000,30,"Nikon India","Mumbai","2022-09-08",29,128,14,1,55000,55000
+14,"DSLR Camera","Electronics",55000,30,"Nikon India","Mumbai","2022-09-08",16,115,14,1,55000,55000
+14,"DSLR Camera","Electronics",55000,30,"Nikon India","Mumbai","2022-09-08",29,128,14,1,55000,55000

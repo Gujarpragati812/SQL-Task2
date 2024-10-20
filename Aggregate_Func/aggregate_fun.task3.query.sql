@@ -1,0 +1,1 @@
+select product_name, avg(price) from products group by product_name 
